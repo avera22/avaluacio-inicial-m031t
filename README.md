@@ -3,57 +3,47 @@
 # MP03 Grup 1T
 # Avaluació Inicial
 
-### Nom i cognoms:
+### Nom i cognoms: Angel Vera Mendez
 
 1. Quin dels tres següents llenguatges de programació està més orientat a desenvolupar aplicacions web **empresarials**?
 
-    a- C/C++
-
-    b- php
-
-    c- Java
+   Java
 
 2. Has programat abans de començar els estudis de DAW? On? Quant de temps?
 
-    Resposta: 
+    Resposta: Si en SMX con python (basico)
     
     
     -
-
 
 3. Què és compilar un programa?
 
-    Resposta:
+    Resposta: Linias de codigo
     
     
     -
-
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
-    Resposta:
+    Resposta: 
 
 
     -
-
 5. Quins llenguatges de programació has fet servir?
 
-    Resposta: 
+    Resposta: Python
 
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
-    Resposta: 
-
-
-    -
-
-7. Explica què és un algorisme.
-
     Resposta:
 
+    -
+7. Explica què és un algorisme.
+
+    Resposta: Es un conjunt de instrucciones o passos que sirven para executar una tasca o resolver un problema
+
 
     -
-
 8. En el món de la programació Orientada a Objecte, digues quina diferència hi ha entre:
 
     a- Una classe i un objecte
@@ -73,11 +63,12 @@
 
 9. Feu un programa, amb el llenguatge de programació que vulgueu, que calculi l’àrea d’un quadrat i mostri el resultat per pantalla.
 
-    (Escriu la resposta al darrere del full)
 
 9. Feu un programa (amb el llenguatge de programació que vulgueu) que, donat un número qualsevol, imprimeixi la seva taula de multiplicar.
+sum1=5
+sum2=5
 
-    (Escriu la resposta al darrere del full)
+print(sum1 + sum2)
 
 10. Quin és el resultat d'executar el següent programa?
 
